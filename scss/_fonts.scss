@@ -1,0 +1,6 @@
+@import "_mixins/font-face";
+
+@include font-face("century", "../fonts/Century/CenturyGothic");
+@include font-face("franklin", "../fonts/Franklin/FranklinGothic-Book");
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
